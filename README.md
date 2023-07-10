@@ -19,7 +19,7 @@
 <a href="https://www.instagram.com/diegoo_ma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/diegoo_ma" height="30" width="40" /></a>
 <a href="https://twitter.com/diegoo_ma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" /></a>
 
-<a href="https://gersonaguedoyanac.netlify.app/" target="blank"><img align="center" src="https://icon-library.com/images/curriculum-vitae-icon/curriculum-vitae-icon-16.jpg" height="40" width="40" /></a>
+<a href="https://diegoma1.github.io/Resume/" target="blank"><img align="center" src="https://icon-library.com/images/curriculum-vitae-icon/curriculum-vitae-icon-16.jpg" height="40" width="40" /></a>
 <a href="https://www.linkedin.com/in/diego-acevedo-013851100/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/diego-acevedo-013851100/" height="30" width="40" /></a>
 
 </p>
