@@ -1,5 +1,5 @@
 <h1 align="center"> Hi there 👋 I'm Diego Moreno Acevedo</h1>
-<h3 align="center">Software Engineer at Honeywell</h3>
+<h3 align="center">Software Engineer at The Home Depot 🧡</h3>
 
 <img align="right" width="50%" src="https://images.unsplash.com/photo-1515879218367-8466d910aaa4?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1169&q=80">
 <h3 align="left">About me:</h3>
